@@ -1,0 +1,29 @@
+{
+  "id": "com.samekey",
+  "version": "1.0.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "author": "Tymofii Savytskyi",
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "SameKey"
+  },
+  "description": {
+    "en": "Access Control System sales and installation directly from the manufacturer. Opening by cards, NFC tags, Bluetooth, mobile application, guest links. Working time and attendance control. Over the Internet administration."
+  },
+  "category": [
+    "security"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png"
+  },
+  "brandColor": "#ff9f00",
+  "homepage": "https://www.samekey.com/?lang=uk",
+  "contributors": {
+    "developers": []
+  }
+}

@@ -1,0 +1,9 @@
+[
+    {
+      "id": "token",
+      "type": "text",
+      "label": { "en": "Token" },
+      "value": "",
+      "hint": { "en": "Token of guest access XXXXXXXX" }
+    }
+  ]
